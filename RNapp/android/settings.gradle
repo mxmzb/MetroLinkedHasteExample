@@ -1,0 +1,3 @@
+rootProject.name = 'LinkedScope'
+
+include ':app'
